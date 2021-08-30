@@ -11,3 +11,7 @@ const res = Any(false).concat(Any(false))
 
 console.log(res)
 console.log(Any.concat)
+
+// monoid = semigroup + Indentity
+
+ 
